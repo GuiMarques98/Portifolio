@@ -1,0 +1,26 @@
+{
+  "name": "portifolio_api",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiMarques98/Portifolio.git"
+  },
+  "author": "guilherme marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiMarques98/Portifolio/issues"
+  },
+  "homepage": "https://github.com/GuiMarques98/Portifolio#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "nodemon": "^2.0.4"
+  }
+}
