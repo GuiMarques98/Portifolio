@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuiMarques98/Portifolio.git"
+    "url": "git+https://github.com/GuiMarques98/portifolio-api.git"
   },
   "author": "guilherme marques",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GuiMarques98/Portifolio/issues"
+    "url": "https://github.com/GuiMarques98/portifolio-api/issues"
   },
-  "homepage": "https://github.com/GuiMarques98/Portifolio#readme",
+  "homepage": "https://github.com/GuiMarques98/portifolio-api#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",

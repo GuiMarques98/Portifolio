@@ -23,8 +23,6 @@ router.get('/:postId', async (req, res) => {
 
 router.post('/', async (req, res) => {
     const post = new Post({ title: req.body.title, description: req.body.description })
-    console.log(req.body)
-    console.log(post)
     try {
         const savePost = post.save()
         res.json(savePost)
